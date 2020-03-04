@@ -20,12 +20,12 @@ public class ApplicationTests {
 
         assertEquals(3, 3);
     }
-/*
+
     @Test
     public void sum_with3numbersko() {
         System.out.println("Test2");
 
         assertEquals(3, 3);
     }
-*/
+
 }
